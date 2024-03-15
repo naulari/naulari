@@ -1,2 +1,2 @@
-## Hello, this Juan's Repo ⚔️💖
+## Hello, this is Juan's Repo ⚔️💖
 
