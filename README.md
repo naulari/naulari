@@ -1,5 +1,10 @@
-# Hello, this is Juan's Repo 💖⚔️💚
-
-![kindness-punks](https://github.com/naulari/naulari/assets/92957562/9fd83c2b-4c90-4953-9c08-a780bdff6d07)
-![cyberkids](https://github.com/naulari/naulari/assets/92957562/3cbd1dd1-abf4-4846-8941-0f3e81f60ba4)
-![eco-warriors](https://github.com/naulari/naulari/assets/92957562/6634f24b-fb16-4195-8074-0384308b46ce)
+      0oooo0                                             .o.           
+        888                                             .888.          
+        888 oooo  oooo   .oooo.   ooo. .oo.            .8"888.         
+        888 `888  `888  `P  )88b  `888P"Y88b          .8' `888.        
+        888  888   888   .oP"888   888   888         .88ooo8888.       
+        888  888   888  d8(  888   888   888        .8'     `888.  .o. 
+    .o. 88P  `V88V"V8P' `Y888""8o o888o o888o      o88o     o8888o Y8P 
+    `Y888P                                                             
+                                                             
+# About Me 
