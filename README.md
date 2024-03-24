@@ -8,4 +8,4 @@
     `Y888P                                                             
                                                              
 # About Me ♤
-Hello 👋, I'm a student at Boston University's CAS with a passion for leveraging technology to make a positive impact and empower others. I thrive on the excitement of solving complex problems and enjoy sharing my knowledge and insights with fellow learners.
+Hello 👋, I'm a student at Boston University's CAS with a passion for leveraging technology to make a positive impact and empower others.
