@@ -1,3 +1,4 @@
+# Hello there, I'am
       0oooo0                                             .o.           
         888                                             .888.          
         888 oooo  oooo   .oooo.   ooo. .oo.            .8"888.         
@@ -7,5 +8,5 @@
     .o. 88P  `V88V"V8P' `Y888""8o o888o o888o      o88o     o8888o Y8P 
     `Y888P                                                             
                                                              
-# About Me ♤
+## About Me ♤
 Hello 👋, I'm a student at Boston University's CAS with a passion for leveraging technology to make a positive impact and empower others.
